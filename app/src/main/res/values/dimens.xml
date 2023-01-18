@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standart_padding">16dp</dimen>
+    <dimen name="large_padding">64dp</dimen>
+    <dimen name="xtrasmall_padding">8dp</dimen>
+    <dimen name="medium_padding">32dp</dimen>
+    <dimen name="xtralarge_padding">96dp</dimen>
+</resources>
